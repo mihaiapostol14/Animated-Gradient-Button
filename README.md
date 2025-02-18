@@ -17,5 +17,5 @@ This button is perfect for modern UI designs, call-to-action buttons, or adding 
 
 Cloning project or download archive
 ```bash
-git clone https://github.com/mihaiapostol14/animation-card-border.git
+git clone https://github.com/mihaiapostol14/Animated-Gradient-Button.git
 ```
