@@ -15,7 +15,9 @@ This project features a beautifully animated gradient button using **pure CSS**.
 
 This button is perfect for modern UI designs, call-to-action buttons, or adding an eye-catching element to your website. 🚀
 
-Cloning project or download archive
+## Cloning Project or Download Archive
 ```bash
 git clone https://github.com/mihaiapostol14/Animated-Gradient-Button.git
 ```
+
+For more details, you can visit the repository [here](https://github.com/mihaiapostol14/Animated-Gradient-Button).
